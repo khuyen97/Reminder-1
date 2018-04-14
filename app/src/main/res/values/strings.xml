@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Reminder</string>
+    <string name="create_group">New Group</string>
+    <string name="repeat">Repeat</string>
 </resources>
